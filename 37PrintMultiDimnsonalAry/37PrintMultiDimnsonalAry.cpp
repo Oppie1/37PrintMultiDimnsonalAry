@@ -7,8 +7,8 @@ int main() {
 
 	for (int row = 0; row < 2; row++) {
 
-		for (int coulumn = 0; coulumn < 3; coulumn++) {
-			cout << bertha[row][coulumn] << "  ";
+		for (int column = 0; column < 3; column++) {
+			cout << bertha[row][column] << "  ";
 		}
 		cout << endl;
 	}
